@@ -27,6 +27,18 @@ module.exports = {
       commonjs2: 'vue',
       amd: 'vue',
       root: 'Vue'
+    },
+    'js-interpreter': {
+      commonjs: 'js-interpreter',
+      commonjs2: 'js-interpreter',
+      amd: 'js-interpreter',
+      root: 'Interpreter'
+    },
+    'vue-resource': {
+      commonjs: 'vue-resource',
+      commonjs2: 'vue-resource',
+      amd: 'vue-resource',
+      root: 'VueResource'
     }
   }
 };

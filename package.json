@@ -5,7 +5,10 @@
   "author": "Sungkwang Lee",
   "license": "MIT",
   "dependencies": {
-    "coinjs": "../coinjs"
+    "coinjs": "../coinjs",
+    "js-interpreter": "^1.4.6",
+    "vue": "^2.5.13",
+    "vue-resource": "^1.3.5"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.38",
